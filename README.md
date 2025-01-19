@@ -34,7 +34,7 @@ Exercício 871
 Exercício 435
 - Utilizando conceitos de Interval Scheduling e Interval Partitioning para resolução
 ![Image](https://github.com/user-attachments/assets/291d3eee-2e66-49b8-9c74-ac6738ee1054)
-## Instalação
+
 
 Exercício 1235
 - Utilizando conceitos de Interval Scheduling
