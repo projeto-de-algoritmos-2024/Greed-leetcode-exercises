@@ -9,7 +9,7 @@ Temas:
 
 ## Exercícios do LeetCode
 
-**Número da Lista**: 13<br>
+**Número das Listas**: 435, 871 e ... <br>
 **Conteúdo da Disciplina**: Algoritmos ambiciosos<br>
 
 ## Alunos
