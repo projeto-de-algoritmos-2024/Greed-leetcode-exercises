@@ -9,7 +9,7 @@ Temas:
 
 ## Exercícios do LeetCode
 
-**Número das Listas**: 435, 871 e ... <br>
+**Número das Listas**: 435, 871 e 1235 <br>
 **Conteúdo da Disciplina**: Algoritmos ambiciosos<br>
 
 ## Alunos
@@ -36,4 +36,11 @@ Exercício 435
 ![Image](https://github.com/user-attachments/assets/291d3eee-2e66-49b8-9c74-ac6738ee1054)
 ## Instalação
 
+Exercício 1235
+- Utilizando conceitos de Interval Scheduling
+![image](https://github.com/user-attachments/assets/51a392e8-5189-4e1c-a67b-b572994863b5)
+
+## Instalação
+
 **Linguagem**: Typescript<br>
+**Linguagem**: Python 3.10<br>
