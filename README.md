@@ -26,7 +26,7 @@ Assista ao vídeo de explicação:
 O projeto tem como objetivo resolver alguns exercícios do LeetCode, aplicando os conceitos de Algoritmos ambiciosos visto em aula.
 
 ## Screenshots
-
+![Image](https://github.com/user-attachments/assets/5edb654b-6136-4c13-ad7f-d76f9873ae4f)
 
 
 ## Instalação
