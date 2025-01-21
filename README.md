@@ -21,7 +21,7 @@ Temas:
 
 ## Sobre
 
-Assista ao vídeo de explicação: 
+Assista ao vídeo de explicação: [https://drive.google.com/file/d/1yzSscMoR6kP-8oQbpcBeuG6hWfB7Lc0R/view?usp=sharing](https://drive.google.com/file/d/122S7Plc3aciYUeDlU-vYPDRISdA3lml4/view?usp=sharing)
 
 O projeto tem como objetivo resolver alguns exercícios do LeetCode, aplicando os conceitos de Algoritmos ambiciosos visto em aula.
 
